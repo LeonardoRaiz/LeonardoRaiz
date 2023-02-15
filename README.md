@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/pt-BR/view/mixflavor-coko-cat-cool-sun-glasses-gif-14851001" width="100"/>
+  <img src="https://media.tenor.com/NlnpmndaKagAAAAi/mixflavor-coko.gif" width="100"/>
 </div>
 
 - 👋 Hi, I’m @LeonardoRaiz
