@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Contribution
 
-![snake gif](https://github.com/leonardoraiz/leonardoraiz/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/leonardoraiz/leonardoraiz/blob/output/github-contribution-grid-snake.svg)
