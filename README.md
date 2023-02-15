@@ -2,6 +2,18 @@
   <img src="https://media.tenor.com/NlnpmndaKagAAAAi/mixflavor-coko.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/leonardoraiz">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/leonraiz">
+    <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://leonardoraiz.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-1AC3ED?style=for-the-badge&logo=itch.io&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 - 👋 Hi, I’m @LeonardoRaiz
 - 👀 I’m interested in create video games
 - 🌱 I’m currently learning Angular
