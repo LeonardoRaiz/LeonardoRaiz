@@ -18,7 +18,7 @@
   
 </div>
 
-### :woman_technologist: About Me :
+### 👨‍💻: About Me :
 
 - 👋 Hi, I’m @LeonardoRaiz
 - 👀 I’m interested in create video games
@@ -38,7 +38,8 @@ You can click the Preview link to take a look at your changes.
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardoraiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoraiz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+
+### 🖱️: Main Technologies :
 <div style="display: inline_block"><br>
   <img align="center" alt="Unity" height="30" width="40" src="https://uixlibrary.com/uploads/icons/62ee2d16cb458f0e8150cfbe-42878531-unity.svg" />
   <img align="center" alt="SQL-server" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
