@@ -12,6 +12,10 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=leonardoraiz&style=flat-square&color=AFED4C" alt=""/>
+  <h1>
+    Hello there
+    <img src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-46-512.png" width="30px"/>
+  </h1>
 </div>
 
 
