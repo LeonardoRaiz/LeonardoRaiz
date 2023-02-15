@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Unity" height="30" width="40" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />
+  <img align="center" alt="Unity" height="30" width="40" src="[https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png](https://uixlibrary.com/uploads/icons/62ee2d16cb458f0e8150cfbe-42878531-unity.svg)" />
   <img align="center" alt="SQL-server" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
