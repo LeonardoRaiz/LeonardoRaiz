@@ -33,14 +33,14 @@ You can click the Preview link to take a look at your changes.
 -->
 ***
 
- <div>
+ <div align="center">
   <a href="https://github.com/leonardoraiz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardoraiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoraiz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonardoraiz&theme=dark&background=000000)](https://git.io/streak-stats)
-
+</div>
 ### 🖱️: Main Technologies :
 <div style="display: inline_block"><br>
   <img align="center" alt="Unity" height="30" width="40" src="https://uixlibrary.com/uploads/icons/62ee2d16cb458f0e8150cfbe-42878531-unity.svg" />
