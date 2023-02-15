@@ -41,7 +41,9 @@ You can click the Preview link to take a look at your changes.
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonardoraiz&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
+  
 ### 🖱️: Main Technologies :
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Unity" height="30" width="40" src="https://uixlibrary.com/uploads/icons/62ee2d16cb458f0e8150cfbe-42878531-unity.svg" />
   <img align="center" alt="SQL-server" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
