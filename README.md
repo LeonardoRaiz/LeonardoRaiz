@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div class="tenor-gif-embed" data-postid="14851001" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mixflavor-coko-cat-cool-sun-glasses-gif-14851001">Mixflavor Coko Sticker</a>from <a href="https://tenor.com/search/mixflavor-stickers">Mixflavor Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/pt-BR/view/mixflavor-coko-cat-cool-sun-glasses-gif-14851001" width="100"/>
 </div>
 
 - 👋 Hi, I’m @LeonardoRaiz
