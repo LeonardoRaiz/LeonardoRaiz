@@ -11,6 +11,7 @@
       <img src="https://img.shields.io/badge/itch.io-1AC3ED?style=for-the-badge&logo=itch.io&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=leonardoraiz&style=flat-square&color=AFED4C" alt=""/>
 </div>
 
 
