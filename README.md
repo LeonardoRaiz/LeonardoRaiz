@@ -22,7 +22,7 @@
 
 - 👋 Hi, I’m @LeonardoRaiz
 - 👀 I’m interested in create video games
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning GDScript with GODOT
 - 💞️ I’m looking to collaborate on creation of games, both artistically and programming
 - 📫 How to reach me leonardoraiz@icloud.com or https://www.instagram.com/leonraiz/
 
