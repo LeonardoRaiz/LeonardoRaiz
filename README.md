@@ -55,6 +55,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Blender" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg">
+  <img align="center" alt="Maya" height="60" width="60" src="https://www.pugetsystems.com/wp-content/uploads/2022/08/Autodesk-Maya-Icon.png">
   <img align="center" alt="Substance" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/substance-painter.svg">
 </div>
   
