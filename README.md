@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
   <h1>🖱️: Main Technologies</h1>
   <img align="center" alt="Unity" height="50" width="60" src="https://uixlibrary.com/uploads/icons/62ee2d16cb458f0e8150cfbe-42878531-unity.svg" />
   <img align="center" alt="Unreal" height="60" width="60" src="https://www.kindpng.com/picc/m/357-3571142_unreal-engine-icon-transparent-unreal-engine-logo-hd.png" />
-  <img align="center" alt="Ruby" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/919/919842.png" />
+  <img align="center" alt="Ruby" height="60" width="60" src="https://www.kindpng.com/picc/m/12-120496_flat-ui-ruby-ruby-icon-png-transparent-png.png" />
   <img align="center" alt="SQL-server" height="50" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
   <img align="center" alt="Csharp" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
   <img align="center" alt="git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
