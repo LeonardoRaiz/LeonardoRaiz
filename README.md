@@ -3,7 +3,8 @@
   <h1 align="center">
       <img src="https://media.tenor.com/NlnpmndaKagAAAAi/mixflavor-coko.gif" width="100"/>
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Léo+Raiz!;" />
-      <img src="https://www.shareicon.net/data/128x128/2016/11/21/854790_kenobi_512x512.png" width="50px">
+      <!--<img src="https://www.shareicon.net/data/128x128/2016/11/21/854790_kenobi_512x512.png" width="50px">-->
+      <img width="67" height="67" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Obi-Wan-star-wars-flat-icons-inmotus-design.png" alt="external-Obi-Wan-star-wars-flat-icons-inmotus-design"/>
   </h1>
   
   <div id="badges">
