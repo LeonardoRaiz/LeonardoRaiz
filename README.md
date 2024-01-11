@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
   <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+<img src="https://www.shareicon.net/data/128x128/2016/11/21/854790_kenobi_512x512.png" width="50px"/>;+I'm+Léo+Raiz!;" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋>;+I'm+Léo+Raiz!;" />
   </h1>
   <img src="https://media.tenor.com/NlnpmndaKagAAAAi/mixflavor-coko.gif" width="100"/>
   <div id="badges">
