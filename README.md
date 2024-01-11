@@ -1,4 +1,8 @@
 <div id="header" align="center">
+  
+  <h1 align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Léo+Raiz!;" />
+  </h1>
   <img src="https://media.tenor.com/NlnpmndaKagAAAAi/mixflavor-coko.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/leonardoraiz">
@@ -17,47 +21,51 @@
   
   
 </div>
+  
 
-### 👨‍💻: About Me :
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
+ 
+ ### 👨‍💻: About Me :
 
 - 👋 Hi, I’m @LeonardoRaiz
 - 👀 I’m interested in create video games
-- 🌱 I’m currently learning GDScript with GODOT
+- 🌱 I’m currently learning GO with GOLANG
 - 💞️ I’m looking to collaborate on creation of games, both artistically and programming
 - 📫 How to reach me leonardoraiz@icloud.com or https://www.instagram.com/leonraiz/
 
-<!---
-LeonardoRaiz/LeonardoRaiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ </div>
 
--->
-***
-
- <div align="center">
-  <a href="https://github.com/leonardoraiz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardoraiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoraiz&layout=compact&langs_count=7&theme=dracula"/>
-
-  
-   <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonardoraiz&theme=dark&background=000000)](https://git.io/streak-stats) -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=leonardoraiz&theme=dark&background=000000)](https://git.io/streak-stats)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
-  
-  
-<div style="display: inline_block" align="center"><br>
-  <h1>🖱️: Main Technologies</h1>
-  <img align="center" alt="Unity" height="50" width="60" src="https://uixlibrary.com/uploads/icons/62ee2d16cb458f0e8150cfbe-42878531-unity.svg" />
-  <img align="center" alt="Unreal" height="60" width="60" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unreal_Engine_icon-icons.com_56587.png" />
-  <img align="center" alt="Ruby" height="50" width="50" src="https://purepng.com/public/uploads/large/purepng.com-rubyrubyblood-redgemstonemineral-corundumgemsapphires-1701528980196brgir.png" />
-  <img align="center" alt="SQL-server" height="50" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-  <img align="center" alt="Csharp" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
-  <img align="center" alt="git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Blender" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg">
-  <img align="center" alt="Maya" height="60" width="60" src="https://www.pugetsystems.com/wp-content/uploads/2022/08/Autodesk-Maya-Icon.png">
-  <img align="center" alt="Substance" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/substance-painter.svg">
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=leonardoraiz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=leoanrdoraiz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=leonardoraiz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<br/><br/>
+
+<hr/>
+
   
 
