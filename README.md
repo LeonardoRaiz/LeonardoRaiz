@@ -28,7 +28,7 @@
 
 <div align="center">
 
-👋 Hi, I’m @LeonardoRaiz
+👋 Hi, I’m Leonardo Raiz
 
 👀 I’m interested in create video games
 
