@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
   <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋>;+I'm+Léo+Raiz!;" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Léo+Raiz!;" />
   </h1>
   <img src="https://media.tenor.com/NlnpmndaKagAAAAi/mixflavor-coko.gif" width="100"/>
   <div id="badges">
@@ -34,11 +34,11 @@
  
  ### 👨‍💻: About Me :
 
-- 👋 Hi, I’m @LeonardoRaiz
-- 👀 I’m interested in create video games
-- 🌱 I’m currently learning GO with GOLANG
-- 💞️ I’m looking to collaborate on creation of games, both artistically and programming
-- 📫 How to reach me leonardoraiz@icloud.com or https://www.instagram.com/leonraiz/
+👋 Hi, I’m @LeonardoRaiz
+👀 I’m interested in create video games
+🌱 I’m currently learning GO with GOLANG
+💞️ I’m looking to collaborate on creation of games, both artistically and programming
+📫 How to reach me leonardoraiz@icloud.com or https://www.instagram.com/leonraiz/
 
  </div>
 
