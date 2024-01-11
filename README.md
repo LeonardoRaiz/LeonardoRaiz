@@ -19,7 +19,6 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=leonardoraiz&style=flat-square&color=7AB1F0" alt=""/>
   <br/>
-  <h3> Hello There! ></h3>
   
   
 </div>
