@@ -32,7 +32,7 @@
 
 👀 I’m interested in create video games
 
-🌱 I’m currently learning GO with GOLANG
+🌱 I’m currently learning Dart with Flutter
 
 💞️ I’m looking to collaborate on creation of games, both artistically and programming
 
